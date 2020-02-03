@@ -47,3 +47,6 @@ function openBrief6() {
 function openCode6() {
     window.open("https://github.com/Alecia1997/DoctorOffice-PHP-mySQL.git");
 }
+function openCV() {
+  window.open('CVr.pdf');
+}
