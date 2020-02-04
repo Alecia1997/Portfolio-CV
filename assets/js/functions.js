@@ -11,7 +11,7 @@ function openBrief2() {
 }
 
 function openCode2() {
-    window.open("https://github.com/Alecia1997/CoffeeWebsite-Javascript.git");
+    window.open("https://github.com/Alecia1997/LilOlCupWebsite-Javascript.git");
 }
  
 function openBrief3() {
